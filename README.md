@@ -6,7 +6,7 @@ You can use this to set up a mesh network on raspianOS using batman
 
 sudo apt install libnl-3-dev libnl-genl-3-dev #these are the requirements for batmanctl
 
-git clone https://git.open-mesh.org/batctl.git
-cd batctl
-sudo make install
+$ git clone https://git.open-mesh.org/batctl.git
+$ cd batctl
+$ sudo make install
 #use this to download and compile batmanctl
